@@ -1,0 +1,15 @@
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h1>Welcome to the Furrever Friend Animal Shelter Listings</h1>
+    <hr />
+
+    <div class="card">
+        <div class="card-body">
+            <p class="card-text">@Html.ActionLink("See available animals", "Index", "Animals")</p>
+            <p class="card-text">@Html.ActionLink("List a new animal", "Create", "Animals")</p>
+        </div>
+    </div>
+</div>
