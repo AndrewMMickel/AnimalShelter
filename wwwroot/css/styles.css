@@ -1,0 +1,11 @@
+body {
+    background-color: #f1b434;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+  }
+  
+  h1 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+  }
