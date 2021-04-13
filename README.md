@@ -1,8 +1,8 @@
 # Animal Shelter Web Interface
 
-#### Homework practice Assignment during Epicodus Coding School, ASP.NET Core MVC Web Interfaces, 12.22.2020
+#### Animal Shelter project
 
-#### By Bess Campbell & Danielle Thompson
+#### By Andrew Mickel
 
 ## Description
 
